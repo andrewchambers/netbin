@@ -1,4 +1,4 @@
-% NETBIN(1) Version 0.1 | nbin Documentation
+% NETBIN(1) Version 0.1 | netbin Documentation
 
 NAME
 ====
@@ -31,7 +31,7 @@ options:
 BUGS
 ====
 
-See GitHub Issues: <https://github.com/andrewchambers/nbin/issues>
+See GitHub Issues: <https://github.com/andrewchambers/netbin/issues>
 
 AUTHOR
 ======
