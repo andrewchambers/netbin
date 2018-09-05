@@ -28,6 +28,8 @@ options:
         TCP keepalive in seconds, 0 to disable (default 120)
 ```
 
+On an interrupt signal, netbin will kill all active connections then exit.
+
 BUGS
 ====
 
